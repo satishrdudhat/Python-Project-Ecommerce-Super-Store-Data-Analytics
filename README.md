@@ -26,15 +26,15 @@ The objective of this project is to analyze the sales performance, customer segm
 
   ### Key Performance Indicators (KPIs) 
 
-   •	Total Sales: 1,988.47 USD
-   •	Total Profit: -112.15 USD (indicating loss in some areas)
-   •	Total Orders: 5 (sample data)
-   •	Total Customers: 3 (sample data)
-   •	Average Discount: Varied per order
-   •	Top Selling Categories: Furniture, Office Supplies
-   •	Most Profitable Sub-Categories: Bookcases, Chairs, Labels
-   •	Sales Distribution by Region: South and West dominate the sales volume
-   •	Sales by Customer Segment: Consumer segment has the highest sales
+   - Total Sales: 1,988.47 USD
+   - Total Profit: -112.15 USD (indicating loss in some areas)
+   - Total Orders: 5 (sample data)
+   - Total Customers: 3 (sample data)
+   - Average Discount: Varied per order
+   - Top Selling Categories: Furniture, Office Supplies
+   - Most Profitable Sub-Categories: Bookcases, Chairs, Labels
+   - Sales Distribution by Region: South and West dominate the sales volume
+   - Sales by Customer Segment: Consumer segment has the highest sales
 
 ## Process of Data Analysis
 
@@ -47,46 +47,46 @@ The objective of this project is to analyze the sales performance, customer segm
 
 ## Project Insights (Key Findings)
 
-•	Total Sales amounted to 1,988.47 USD, but the store experienced a net loss of 112.15 USD in profit.
-•	Furniture and Office Supplies were the top-selling categories, while the most profitable sub-categories were Bookcases, Chairs, and Labels.
-•	The South and West regions accounted for the majority of sales.
-•	Consumer segment contributed the highest sales, followed by the Corporate segment.
-•	Discounting negatively impacted profits, especially in categories with high discount rates.
+- Total Sales amounted to 1,988.47 USD, but the store experienced a net loss of 112.15 USD in profit.
+- Furniture and Office Supplies were the top-selling categories, while the most profitable sub-categories were Bookcases, Chairs, and Labels.
+- The South and West regions accounted for the majority of sales.
+- Consumer segment contributed the highest sales, followed by the Corporate segment.
+- Discounting negatively impacted profits, especially in categories with high discount rates.
 
 ## All Visuals.
 
 Visualization 1 : Percentage of Shipment  <br>
-![Visualization 1](https://github.com/user-attachments/assets/f2969aa5-a0d8-42db-83b1-63bce55a6cd8)
+![Visualization 1](https://github.com/user-attachments/assets/900f8105-95f8-4216-88ee-aaf9a3503b6a)
 
 Visualization 2 : Number of Ship Mode by Category  <br>
-![Visualization 2](https://github.com/user-attachments/assets/05c37122-2779-4dd1-88e7-5a21e165a09a)
+![Visualization 2](https://github.com/user-attachments/assets/ef51c909-6973-468a-8da0-3a615e4569ff)
 
 Visualization 3 : Number of Sub Category Office Supplies  <br>
-![Visualization 3](https://github.com/user-attachments/assets/aae16462-8643-45df-8ef9-d3539ffc2293)
+![Visualization 3](https://github.com/user-attachments/assets/f671c165-59a4-40ad-84d7-6590530548d8)
 
 Visualization 4 : Yearly Sales & Profit Trends  <br>
-![Visualization 4](https://github.com/user-attachments/assets/d18828d3-f8cd-4658-bae8-9517068890f8)
+![Visualization 4](https://github.com/user-attachments/assets/ae31144d-1758-4601-9243-5492fcbeb089)
 
 Visualization 5: Category-wise Sales & Profit  <br>
-![Visualization 5](https://github.com/user-attachments/assets/59dc9ea8-c6cc-4d57-a167-27d10d1a0b12)
+![Visualization 5](https://github.com/user-attachments/assets/d5f78417-b205-4ffe-a851-788af4f047bd)
 
 Visualization 6: Top 10 Profitable Products  <br>
-![Visualization 6](https://github.com/user-attachments/assets/0655f64d-fc31-4988-95a9-524547959303)
+![Visualization 6](https://github.com/user-attachments/assets/2ade7b0d-c838-45b7-8bf4-913e887ce434)
 
 Visualization 7: Top 10 High Sales Products  <br>
-![Visualization 7](https://github.com/user-attachments/assets/b1072201-746e-4e7e-80c0-fe4512952e38)
+![Visualization 7](https://github.com/user-attachments/assets/75eadc6f-a6f5-4037-9bac-57f786d11e32)
 
 Visualization 8: Impact of Discounts on Profitability <br>
-![Visualization 8](https://github.com/user-attachments/assets/39251d6d-1ed3-4b89-8d6a-fcde19281239)
+![Visualization 8](https://github.com/user-attachments/assets/258af784-965d-4b0e-a88f-2c995765307f)
 
 Visualization 9: Region-wise Sales & Profit  <br>
-![Visualization 9](https://github.com/user-attachments/assets/fa1e162c-a56f-4e64-a303-1eec6ae03df6)
+![Visualization 9](https://github.com/user-attachments/assets/5589a525-13da-4b74-9424-5d0e4810e1d9)
 
 Visualization 10: Customer Segment-wise Sales & Profit  <br>
-![Visualization 10](https://github.com/user-attachments/assets/aa2fa3e0-cd77-498a-9967-4da8c87774eb)
+![Visualization 10](https://github.com/user-attachments/assets/f2f62cd3-4060-4aab-9a81-b075a92717b2)
 
 Visualization 11: Number Product Base Margin by Category  <br>
-![Visualization 11](https://github.com/user-attachments/assets/dafff531-b263-431c-92f8-74efa59ec7d3)
+![Visualization 11](https://github.com/user-attachments/assets/aef4274a-0e12-4196-8ffc-05c56408838b)
 
 ## Conclusion & Strategic Recommendations
 
